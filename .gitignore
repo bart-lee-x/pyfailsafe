@@ -305,3 +305,9 @@ fabric.properties
 # pytype static type analyzer
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,flask,python
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+.idea/pyfailsafe.iml
+.idea/vcs.xml
